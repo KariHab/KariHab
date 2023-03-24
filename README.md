@@ -5,7 +5,7 @@
 
 * 🌱 I’m currently learning C at 42Quebec
 
-Projects I finished:
+42 School - Projects:
 
 Libft: 100%
 
