@@ -6,6 +6,7 @@
 * 🌱 I’m currently learning C at 42Quebec
 
 * Projects I finished:
+
 Libft: 100%
 
 ft_printf: 100%
