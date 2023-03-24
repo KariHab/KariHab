@@ -7,6 +7,9 @@
 
 * Projects I finished:
 Libft: 100%
+
 ft_printf: 100%
+
 get_next_line: 103%
+
 Born2beroot: 100%
