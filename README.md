@@ -33,7 +33,9 @@ Minitalk: 125%
 ![harvard-logo-1](https://user-images.githubusercontent.com/121245611/229830402-01b19c3d-a89c-4f92-a08d-3ff58373698c.png)
 
 ### Harvard Universtiy - Projects:
-###CS50’s Introduction to Programming with Python
+![CS50P_pll](https://user-images.githubusercontent.com/121245611/229836004-3ca544a4-dbac-4c6f-864f-c0def0e32ca3.png)
+
+CS50’s Introduction to Programming with Python
 
 
 Week 0: 100% - Projects: Indoor Voice, Playback Speed, Making Faces, Einstein, and Tip Calculator
@@ -57,8 +59,9 @@ Week 8: 100% - Projects: Seasons of Love, Cookie Jar, and CS50 Shirtificate.
 
 Final project: Ongoing
 
+![CS50G_pll](https://user-images.githubusercontent.com/121245611/229836040-7b8af674-7546-4c1a-80e4-728611a7bbce.png)
 
-###CS50's Introduction to Game Development
+CS50's Introduction to Game Development
 
 Week 0:  Pong
 
