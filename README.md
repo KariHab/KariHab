@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently a student at 42Quebec(Canada)
+* 👩🏽‍🏫 Student at 42Quebec(Canada)
 
-* 🌱 I’m currently learning C at 42Quebec
+* 💻 Learning C at 42Quebec
+
+* 🐍 Exploring Python with Harvard University
+
 
 42 School - Projects:
 
