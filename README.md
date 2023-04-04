@@ -9,9 +9,10 @@
 * 🐍 Exploring Python with Harvard University on my spare time
 
 
+### CURRICULUM
 ![42quebec-logo-white](https://user-images.githubusercontent.com/121245611/229829664-89c1e1c1-2696-4765-81ad-8c6a573b5763.svg)
 
-### Curriculum - 42 School - Projects:
+### 42 School - Projects:
 
 
 Libft: 100%
@@ -25,9 +26,10 @@ Born2beroot: 100%
 Minitalk: 125%
 
 
+### SPARE TIME
 ![harvard-logo-1](https://user-images.githubusercontent.com/121245611/229830402-01b19c3d-a89c-4f92-a08d-3ff58373698c.png)
 
-### Spare time - Harvard Universtiy - Projects:
+### Harvard Universtiy - Projects:
 
 
 Week 0: 100% - Projects: Indoor Voice, Playback Speed, Making Faces, Einstein, and Tip Calculator
