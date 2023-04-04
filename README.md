@@ -1,3 +1,4 @@
+
 ### WELCOME TO MY HUB
 
 
@@ -18,13 +19,13 @@
 ### Curriculum - 42 School - Projects:
 
 
-Libft: 100% 
+Libft: 100% ![100_42](https://user-images.githubusercontent.com/121245611/229831980-67ffcb8a-ad5f-4aa0-b9cb-29efc691043b.png)
 
-ft_printf: 100% 
+ft_printf: 100% ![100_42](https://user-images.githubusercontent.com/121245611/229831980-67ffcb8a-ad5f-4aa0-b9cb-29efc691043b.png)
 
 get_next_line: 103%
 
-Born2beroot: 100%
+Born2beroot: 100% ![100_42](https://user-images.githubusercontent.com/121245611/229831980-67ffcb8a-ad5f-4aa0-b9cb-29efc691043b.png)
 
 Minitalk: 125%
 
