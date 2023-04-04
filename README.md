@@ -9,6 +9,8 @@
 
 
 Curriculum - 42 School - Projects:
+![42quebec-logo-white](https://user-images.githubusercontent.com/121245611/229829664-89c1e1c1-2696-4765-81ad-8c6a573b5763.svg)
+
 
 Libft: 100% 
 
