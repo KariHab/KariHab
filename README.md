@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME TO MY HUB
 
 
 * 👩🏽‍🏫 Student at 42Quebec(Canada)
@@ -10,12 +10,14 @@
 
 42 School - Projects:
 
-Libft: 100%
-
-ft_printf: 100%
+Libft: 100% | ft_printf: 100%
 
 get_next_line: 103%
 
 Born2beroot: 100%
 
 Minitalk: 125%
+
+Harvard Universtiy - Projects:
+
+
