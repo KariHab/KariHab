@@ -59,6 +59,7 @@ Week 8: 100% - Projects: Seasons of Love, Cookie Jar, and CS50 Shirtificate.
 
 Final project: Ongoing
 
+-------------------------------------------------
 ![CS50G_pll](https://user-images.githubusercontent.com/121245611/229836040-7b8af674-7546-4c1a-80e4-728611a7bbce.png)
 
 CS50's Introduction to Game Development
