@@ -29,8 +29,8 @@ Minitalk: 125%
 
 
 Spare time - Harvard Universtiy - Projects:
+![harvard-logo-1-2](https://user-images.githubusercontent.com/121245611/229830041-c1b5fc19-1b31-4fa4-a90e-6f50b855093a.png)
 
-![Harvard-Logo](https://user-images.githubusercontent.com/121245611/229829352-f76c67ab-0bf1-43c8-b393-dc3c670937a7.png)
 
 Week 0: 100% - Projects: Indoor Voice, Playback Speed, Making Faces, Einstein, and Tip Calculator
 
