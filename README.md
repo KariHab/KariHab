@@ -10,7 +10,7 @@
 
 * 🐍 Exploring Python with Harvard University on my spare time
 
-* 🎮 Learning game dev with Godot Engine on my spare time
+* 🎮 Discovering game dev on my spare time
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
