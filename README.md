@@ -2,6 +2,9 @@
 ### WELCOME TO MY HUB
 
 
+### :fire: My Stats
+
+https://github-readme-streak-stats.herokuapp.com/?KariHab
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 👩🏽‍🏫 Student at 42Quebec(Canada)
