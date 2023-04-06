@@ -20,7 +20,7 @@
 ### 42 School - Projects:
 
 
-Libft: 100%  https://github.com/KariHab/libft
+Libft: 100%
 
 ft_printf: 100% 
 
