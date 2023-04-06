@@ -33,17 +33,6 @@ Minitalk: 125%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
 
-![download](https://user-images.githubusercontent.com/121245611/230404772-07c7bb2a-c65f-437d-b787-c5ef4439fdb3.png)
-
-### Godot Engine - My own projects:
-
-First small game: 
-Goal: Learn how to use Godot Engine with GDScript
-
-PHOTO DU GAME et LIEN DU CODE 
-
-------------------------------------------------------------------------------------------------------
-
 ![harvard-logo-1](https://user-images.githubusercontent.com/121245611/229830402-01b19c3d-a89c-4f92-a08d-3ff58373698c.png)
 
 ### Harvard Universtiy - Projects:
@@ -72,8 +61,6 @@ Week 8: 100% - Projects: Seasons of Love, Cookie Jar, and CS50 Shirtificate.
 
 
 Final project: Ongoing
-
--------------------------------------------------
 
 
 
