@@ -4,7 +4,7 @@
 
 ### :fire: My Stats
 
-https://github-readme-streak-stats.herokuapp.com/?KariHab
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KariHab)](https://git.io/streak-stats)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 👩🏽‍🏫 Student at 42Quebec(Canada)
