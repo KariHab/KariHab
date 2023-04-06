@@ -10,6 +10,8 @@
 
 * 🐍 Exploring Python with Harvard University on my spare time
 
+* 🎮 Learning game dev with Godot Engine on my spare time
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ### CURRICULUM
@@ -30,6 +32,15 @@ Minitalk: 125%
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
+
+###Godot Engine - My own projects:
+![logo_large_color_light](https://user-images.githubusercontent.com/121245611/230257862-0575e3e8-6a82-409a-a55b-11123f8d7ee3.png)
+
+First small game: 
+Goal: Learn how to use Godot Engine with GDScript
+
+PHOTO DU GAME et LIEN DU CODE 
+
 ![harvard-logo-1](https://user-images.githubusercontent.com/121245611/229830402-01b19c3d-a89c-4f92-a08d-3ff58373698c.png)
 
 ### Harvard Universtiy - Projects:
@@ -60,32 +71,6 @@ Week 8: 100% - Projects: Seasons of Love, Cookie Jar, and CS50 Shirtificate.
 Final project: Ongoing
 
 -------------------------------------------------
-![CS50G_pll](https://user-images.githubusercontent.com/121245611/229836040-7b8af674-7546-4c1a-80e4-728611a7bbce.png)
 
-CS50's Introduction to Game Development
-
-Week 0:  Pong
-
-Week 1:  Flappy Bird
-
-Week 2:  Breakout
-
-Week 3:  Match 3
-
-Week 4:  Super Mario Bros.
-
-Week 5:  Legend of Zelda
-
-Week 6:  Angry Birds
-
-Week 7:  Pokémon
-
-Week 8:  Helicopter Game 3D
-
-Week 9:  Dreadhalls
-
-Week 10: Portal
-
-Week 11: Portal Problems
 
 
