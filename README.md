@@ -33,7 +33,7 @@ Minitalk: 125%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
 
-![logo_large_color_light](https://user-images.githubusercontent.com/121245611/230257862-0575e3e8-6a82-409a-a55b-11123f8d7ee3.png)
+![download](https://user-images.githubusercontent.com/121245611/230404772-07c7bb2a-c65f-437d-b787-c5ef4439fdb3.png)
 
 ### Godot Engine - My own projects:
 
