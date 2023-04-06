@@ -33,8 +33,9 @@ Minitalk: 125%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
 
-### Godot Engine - My own projects:
 ![logo_large_color_light](https://user-images.githubusercontent.com/121245611/230257862-0575e3e8-6a82-409a-a55b-11123f8d7ee3.png)
+
+### Godot Engine - My own projects:
 
 First small game: 
 Goal: Learn how to use Godot Engine with GDScript
