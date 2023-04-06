@@ -1,10 +1,6 @@
 
 ### WELCOME TO MY HUB
 
-
-### :fire: My Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KariHab)](https://git.io/streak-stats)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 👩🏽‍🏫 Student at 42Quebec(Canada)
@@ -16,6 +12,9 @@
 * 🎮 Discovering game dev on my spare time
 
 
+### :fire: My Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KariHab&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ### CURRICULUM
 
