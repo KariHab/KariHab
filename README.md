@@ -35,12 +35,10 @@ Minitalk: 125%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
 
-![The-Harvard-Emblem](https://user-images.githubusercontent.com/121245611/230407288-0e4cea58-a877-467c-8039-4d9b5f210c68.jpg)
+![The-Harvard-Emblem](https://user-images.githubusercontent.com/121245611/230407288-0e4cea58-a877-467c-8039-4d9b5f210c68.jpg) ![FOpY7XlXMBUyKXx](https://user-images.githubusercontent.com/121245611/230407403-49617511-12ac-4773-ae6b-45356306d292.png)
 
 
 ### Harvard Universtiy - Projects:
-![FOpY7XlXMBUyKXx](https://user-images.githubusercontent.com/121245611/230407403-49617511-12ac-4773-ae6b-45356306d292.png)
-
 
 CS50’s Introduction to Programming with Python
 
