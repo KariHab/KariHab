@@ -16,9 +16,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ### CURRICULUM
 
-![download (1)](https://user-images.githubusercontent.com/121245611/230407032-e79a4417-3309-4c62-8f48-dcbd3ad9ba46.png)
-
-
 ### 42 School - Projects:
 
 
@@ -34,8 +31,6 @@ Minitalk: 125%
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
-
-![The-Harvard-Emblem](https://user-images.githubusercontent.com/121245611/230407288-0e4cea58-a877-467c-8039-4d9b5f210c68.jpg) 
 
 ### Harvard Universtiy - CS50’s Introduction to Programming with Python - Projects:
 
