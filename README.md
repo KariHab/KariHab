@@ -35,13 +35,9 @@ Minitalk: 125%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
 
-![The-Harvard-Emblem](https://user-images.githubusercontent.com/121245611/230407288-0e4cea58-a877-467c-8039-4d9b5f210c68.jpg) ![FOpY7XlXMBUyKXx](https://user-images.githubusercontent.com/121245611/230407403-49617511-12ac-4773-ae6b-45356306d292.png)
+![The-Harvard-Emblem](https://user-images.githubusercontent.com/121245611/230407288-0e4cea58-a877-467c-8039-4d9b5f210c68.jpg) 
 
-
-### Harvard Universtiy - Projects:
-
-CS50’s Introduction to Programming with Python
-
+### Harvard Universtiy - CS50’s Introduction to Programming with Python - Projects:
 
 Week 0: 100% - Projects: Indoor Voice, Playback Speed, Making Faces, Einstein, and Tip Calculator
 
