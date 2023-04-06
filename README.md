@@ -15,7 +15,9 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ### CURRICULUM
-![42quebec-logo-white](https://user-images.githubusercontent.com/121245611/229829664-89c1e1c1-2696-4765-81ad-8c6a573b5763.svg)
+
+![download (1)](https://user-images.githubusercontent.com/121245611/230407032-e79a4417-3309-4c62-8f48-dcbd3ad9ba46.png)
+
 
 ### 42 School - Projects:
 
@@ -33,10 +35,12 @@ Minitalk: 125%
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SPARE TIME
 
-![harvard-logo-1](https://user-images.githubusercontent.com/121245611/229830402-01b19c3d-a89c-4f92-a08d-3ff58373698c.png)
+![The-Harvard-Emblem](https://user-images.githubusercontent.com/121245611/230407288-0e4cea58-a877-467c-8039-4d9b5f210c68.jpg)
+
 
 ### Harvard Universtiy - Projects:
-![CS50P_pll](https://user-images.githubusercontent.com/121245611/229836004-3ca544a4-dbac-4c6f-864f-c0def0e32ca3.png)
+![FOpY7XlXMBUyKXx](https://user-images.githubusercontent.com/121245611/230407403-49617511-12ac-4773-ae6b-45356306d292.png)
+
 
 CS50’s Introduction to Programming with Python
 
