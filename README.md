@@ -13,7 +13,7 @@
 
 ### :fire: My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KariHab&theme=dark&border_radius=4&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KariHab&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 ### CURRICULUM
 
