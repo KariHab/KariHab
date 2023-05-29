@@ -3,7 +3,7 @@
 
 * 👩🏽‍🏫 PhD in Molecular Medicine 
 
-* 💻 Student at 42Quebec(Canada) learning C
+* 💻 Student at 42Quebec (Canada) learning C
 
 * 🐍 Exploring Python with Harvard University on my spare time
 
