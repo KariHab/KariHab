@@ -5,7 +5,7 @@
 
 * 💻 Student at 42Quebec (Canada) learning C
 
-* 🐍 Exploring Python with Harvard University on my spare time
+* 🐍 Exploring Python with Harvard University on my spare time 
 
 * 🎮 Discovering game dev on my spare time 
 
