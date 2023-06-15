@@ -11,10 +11,6 @@
 
 -------------------
 
-### :fire: My Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KariHab&theme=highcontrast&hide_border=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
------------------------------------------------------------------------------------------------------------------------------------------------------
 ### CURRICULUM
 
 ### 42 School - Projects:
