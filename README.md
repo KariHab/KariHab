@@ -11,6 +11,8 @@
 
 * 🧮 Exploring the field of Data Science & Databases with Udemy
 
+* 🐘 Learning PostgreSQL with Udemy 
+
 -------------------
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
