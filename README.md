@@ -11,9 +11,6 @@
 
 * 🧮 Exploring the field of Data Science & Databases with Udemy
 
-# Find me here : 
-![image](https://github.com/KariHab/KariHab/assets/121245611/b9a9ae14-889c-4084-83d9-0c1d57dc65ba) https://www.linkedin.com/in/karimahabbout/
-
 -------------------
 
 ### :hammer_and_wrench: Languages and Tools :
