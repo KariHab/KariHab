@@ -5,9 +5,11 @@
 
 * 💻 Student at 42Quebec (Canada) learning C
 
-* 🐍 Exploring Python with Harvard University on my spare time 
+* 🐍 Learning Python with Harvard University & Udemy 
 
-* 🎮 Discovering game dev on my spare time 
+* 🎮 Discovering game dev with Zenva
+
+* 🧮 Exploring the field of Data Science & Databases with Udemy
 
 -------------------
 
