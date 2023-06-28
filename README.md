@@ -3,7 +3,7 @@
 
 ### About me
 
-* 👩🏽‍🏫 PhD in Molecular Medicine
+* 👩🏽‍🏫 PhD in Molecular Medicine 
 
 * 💻 Student at 42Quebec (Canada) learning C
 
@@ -11,7 +11,7 @@
 
 * 🎮 Discovering game dev with Zenva
 
-* 🧮 Exploring the field of Data Science & Databases with Udemy
+* 🧮 Exploring the field of Data Science & Machine Learning with Udemy
 
 
 -------------------
