@@ -22,4 +22,5 @@
 
 ### Certifications
 
-* 🐘 PostgreSQL certificate Udemy 
+* 🐘 PostgreSQL certificate Udemy
+* 🐍 Python Bootcamp certificate Udemy
