@@ -5,7 +5,7 @@
 
 * 👩🏽‍🏫 PhD in Molecular Medicine 
 
-* 💻 Student at 42Quebec (Canada) learning C
+* 💻 BSc Software Engineering student - Quebec
 
 * 🐍 Learning Python with Harvard University & Udemy 
 
