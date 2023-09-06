@@ -7,7 +7,7 @@
 
 * 💻 BSc Software Engineering student - Quebec
 
-* 🐍 Learning Python with Harvard University & Udemy 
+* 🐍 Learning Python at Laval University and self educated with Harvard University & Udemy 
 
 * 🎮 Discovering game dev with Zenva
 
