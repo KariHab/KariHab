@@ -1,6 +1,3 @@
-
-### We can combine Life Science with Computer Science to improve Life!
-
 ### About me
 
 * 👩🏽‍🏫 PhD in Molecular Medicine 
