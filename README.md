@@ -2,7 +2,7 @@
 
 * 👩🏽‍🏫 PhD in Molecular Medicine 
 
-* 💻 BSc Software Engineer - Quebec
+* 💻 BSc Computer Science & Software Engineering - Quebec
 
 * 🐍 Learning Python at Laval University and self educated with Harvard University & Udemy 
 
