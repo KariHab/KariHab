@@ -1,4 +1,7 @@
 ![pexels-kevin-ku-92347-577585](https://github.com/user-attachments/assets/3715074b-0476-4068-8019-71a700cddbcc)
+<img src="https://komarev.com/ghpvc/?username=KariHab&style=flat-square&color=blue" alt=""/>
+
+-----------------------
 
 <h1>
   Hey there, I'm Kari!
@@ -6,7 +9,7 @@
 </h1>
 
 
-### About me
+# About me
 -------------------------------------------------------------
 * 👩🏽‍🏫 I have a PhD in Molecular Medicine from Laval University (Quebec, Canada)
 
@@ -24,7 +27,7 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=KariHab&style=flat-square&color=blue" alt=""/>
+
 
 
 ---------------------------------------------------
