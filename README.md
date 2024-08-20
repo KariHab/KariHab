@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### About me
+
 * 👩🏽‍🏫 I have a PhD in Molecular Medicine from Laval University (Quebec, Canada)
 
 * 💻 I'm currently taking a BSc Computer Science at Laval University (Quebec, Canada)
