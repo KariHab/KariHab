@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/embed/xaO6TmgQmKEQ4516sE" width="480" height="379"/>
 </div>
-<iframe src="https://giphy.com/embed/xaO6TmgQmKEQ4516sE" width="480" height="379" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ProductDock-it-programming-productdock-xaO6TmgQmKEQ4516sE">via GIPHY</a></p>
+
 ### About me
 
 -------------------------------------------------------------
