@@ -24,7 +24,8 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KariHab&theme=darcula" />
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KariHab&theme=darcula" />
+ <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KariHab&theme=darcula"/>
+ <img class="img" src="[http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KariHab&theme=darcula](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KariHab&show_icons=true&theme=darcula)"/>
 </div>
 
 
