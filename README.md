@@ -27,16 +27,10 @@ Connect with me
 
 
 ---------------------------------------------------
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KariHab&theme=darcula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KariHab&theme=darcula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KariHab&theme=darcula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KariHab&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KariHab&theme=darcula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KariHab&theme=darcula)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KariHab&theme=darcula&utcOffset=8)
+
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KariHab)](https://github.com/KariHab/github-readme-stats)
