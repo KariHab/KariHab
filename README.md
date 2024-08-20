@@ -16,7 +16,7 @@
 
 * 💻 I'm currently taking a BSc Computer Science at Laval University (Quebec, Canada)
 
-* :pill: I love playing with data especially when its related to mmedical / biology field
+* :pill: I love playing with data especially when its related to medical / biology / pharma field
 
 
 
