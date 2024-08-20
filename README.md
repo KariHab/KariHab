@@ -1,4 +1,4 @@
-![pexels-kevin-ku-92347-577585](https://github.com/user-attachments/assets/172d8ea4-14c5-40cf-a8a0-8de3db587898)
+![pexels-kevin-ku-92347-577585](https://github.com/user-attachments/assets/3715074b-0476-4068-8019-71a700cddbcc)
 
 <h1>
   hey there, I'm Kari
