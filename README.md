@@ -13,14 +13,6 @@
 
 
 
-Connect with me
-
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/karimahabbout/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 
 
@@ -31,6 +23,14 @@ Connect with me
 
 
 
-
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KariHab)](https://github.com/KariHab/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
+## Connect with me
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/karimahabbout/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
