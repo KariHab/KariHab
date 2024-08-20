@@ -6,8 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-#### About me
+### About me
 -------------------------------------------------------------
 * 👩🏽‍🏫 I have a PhD in Molecular Medicine from Laval University (Quebec, Canada)
 
@@ -15,7 +14,9 @@
 
 
 ----------------------------------------------
-#### Connect with me
+<p align="center">
+### Connect with me
+</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/karimahabbout/">
@@ -24,8 +25,10 @@
 </div>
 
 
+<p align="center">
+### Languages & Tools:
+</p>
 
-#### Languages & Tools:
 
 
 ---------------------------------------------------
