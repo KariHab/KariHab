@@ -7,16 +7,14 @@
 </h1>
 
 ### About me
--------------------------------------------------------------
 * 👩🏽‍🏫 I have a PhD in Molecular Medicine from Laval University (Quebec, Canada)
 
 * 💻 I'm currently taking a BSc Computer Science at Laval University (Quebec, Canada)
 
 
-----------------------------------------------
-<p align="center">
+
 Connect with me
-</p>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/karimahabbout/">
@@ -25,9 +23,9 @@ Connect with me
 </div>
 
 
-<p align="center">
+
 Languages & Tools:
-</p>
+
 
 
 
