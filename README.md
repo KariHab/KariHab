@@ -28,9 +28,4 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=darcula&background=000000)](https://git.io/streak-stats)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KariHab&layout=compact&theme=darcula)](https://github.com/KariHab/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=darcula)](https://git.io/streak-stats)
