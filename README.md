@@ -1,5 +1,4 @@
-[![link](https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/)
-
+![pexels-kevin-ku-92347-577585](https://github.com/user-attachments/assets/172d8ea4-14c5-40cf-a8a0-8de3db587898)
 
 <h1>
   hey there, I'm Kari
