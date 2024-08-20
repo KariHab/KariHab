@@ -23,9 +23,6 @@
 ------------------
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KariHab&theme=darcula" />
+ <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=darcula" />
  <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KariHab&theme=darcula"/>
 </div>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=darcula)](https://git.io/streak-stats)
