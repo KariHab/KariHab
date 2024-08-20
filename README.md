@@ -1,5 +1,10 @@
+[![link](https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/)
 
-  <img src="https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/" width="600" height="300"/>
+
+<h1>
+  hey there, I'm Kari
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 ### About me
@@ -19,10 +24,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=KariHab&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  hey there, I'm Kari
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 ---------------------------------------------------
 
 
