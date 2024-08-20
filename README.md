@@ -19,6 +19,11 @@
 * :pill: I love playing with data especially when its related to medical / biology / pharma field
 
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+</div>
 
 -------------------------------------------------
 ### 🔥 My stats: 
