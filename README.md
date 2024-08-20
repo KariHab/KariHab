@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://www.pexels.com/photo/data-codes-through-eyeglasses-577585/" width="600" height="300"/>
 </div>
-[Banner](https://giphy.com/gifs/ProductDock-it-programming-productdock-xaO6TmgQmKEQ4516sE)
+
 ### About me
 
 -------------------------------------------------------------
