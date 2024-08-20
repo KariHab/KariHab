@@ -10,7 +10,7 @@
 * 💻 I'm currently taking a BSc Computer Science at Laval University (Quebec, Canada)
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/karimahabbout/)">
+  <a href="https://www.linkedin.com/in/karimahabbout/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
