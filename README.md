@@ -22,6 +22,13 @@
 
 ------------------
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KariHab&theme=darcula" />
+ <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KariHab&theme=darcula" />
+</div>
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KariHab&theme=darcula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KariHab&theme=darcula)
 
 
