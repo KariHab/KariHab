@@ -18,7 +18,7 @@
 
 * :pill: I love playing with data especially when its related to medical / biology / pharma field
 
-
+--------
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
@@ -36,6 +36,3 @@
  <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KariHab&theme=darcula"/>
 </div>
 
-
-
-h
