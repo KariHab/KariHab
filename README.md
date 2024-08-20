@@ -7,4 +7,3 @@ Hi! I'm Karima
 * 💻 BSc Computer Science - Quebec
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KariHab)](https://github.com/KariHab/github-readme-stats)
