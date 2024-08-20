@@ -16,13 +16,13 @@
 
 * 💻 I'm currently taking a BSc Computer Science at Laval University (Quebec, Canada)
 
-* I love playing with data especially when its related to mmedical / biology field
+* :pill: I love playing with data especially when its related to mmedical / biology field
 
 
 
 ------------------
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=darcula" />
+ <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=darcula"/>
  <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KariHab&theme=darcula"/>
 </div>
