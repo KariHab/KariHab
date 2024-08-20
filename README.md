@@ -11,7 +11,7 @@
 </h1>
 
 
-
+### About me: 
 * 👩🏽‍🏫 I have a PhD in Molecular Medicine from Laval University (Quebec, Canada)
 
 * 💻 I'm currently taking a BSc Computer Science at Laval University (Quebec, Canada)
@@ -20,8 +20,8 @@
 
 
 
-------------------
-
+-------------------------------------------------
+### 🔥 My stats: 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=KariHab&theme=darcula"/>
  <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KariHab&theme=darcula"/>
