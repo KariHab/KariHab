@@ -15,7 +15,7 @@
 
 ----------------------------------------------
 <p align="center">
-### Connect with me
+Connect with me
 </p>
 
 <div id="badges">
@@ -26,7 +26,7 @@
 
 
 <p align="center">
-### Languages & Tools:
+Languages & Tools:
 </p>
 
 
